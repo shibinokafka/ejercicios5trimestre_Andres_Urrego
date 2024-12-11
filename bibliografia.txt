@@ -1,1 +1,2 @@
-Chacon, S. and Straub, B. Pro Git. Apress.
+
+hacon, S. and Straub, B. Pro Git. Apress.
